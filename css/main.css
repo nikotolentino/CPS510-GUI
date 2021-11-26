@@ -6,11 +6,19 @@ body{
 
 /* Database related rules */
 #database-table{
-  min-height: 500px;
+  height: 400px;
   overflow:auto;
   margin-bottom: 5vw;
 }
 
+#dropdown{
+  display:flex;
+  justify-content: : center;
+  flex-wrap: wrap;
 
+}
 
+.option{
+  display: none;
+}
 /* Buttons related rules */
