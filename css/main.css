@@ -8,8 +8,10 @@ body{
 #database-table{
   height: 400px;
   overflow:auto;
-  margin-bottom: 5vw;
+  margin-bottom: 20px;
 }
+
+/* Buttons related rules */
 
 #dropdown{
   display:flex;
@@ -21,4 +23,7 @@ body{
 .option{
   display: none;
 }
-/* Buttons related rules */
+
+.option{
+  margin-top:20px;
+}
